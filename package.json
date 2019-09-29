@@ -1,0 +1,25 @@
+{
+  "name": "NodeJS-File-Metadata-Microservice",
+  "version": "1.0.0",
+  "description": "Free Code Camp Apis and Microservices Projects - File Metadata Microservice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sameer-ingavale/NodeJS-File-Metadata-Microservice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sameer-ingavale/NodeJS-File-Metadata-Microservice/issues"
+  },
+  "homepage": "https://github.com/sameer-ingavale/NodeJS-File-Metadata-Microservice#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "multer": "^1.4.2"
+  }
+}
